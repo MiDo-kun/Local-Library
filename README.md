@@ -8,7 +8,7 @@ For the backend, I utilized the Express.js framework to build a full stack web a
 
 This project allowed me to gain experience with backend web development, web application architecture, and database design, as well as frontend web development with Pug, JQuery, and Bootstrap.
 
-You can view the live website [here](https://local-library-express.onrender.com).
+You can view the live website [here](https://local-library.mido-kun.repl.co).
 
 **Note**: If you need a diagram you can find it [here](https://local-library-express.onrender.com/architecture). **Zoom out** to see the whole diagram.
 
