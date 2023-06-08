@@ -8,6 +8,8 @@ For the backend, I utilized the Express.js framework to build a full stack web a
 
 This project allowed me to gain experience with backend web development, web application architecture, and database design, as well as frontend web development with Pug, JQuery, and Bootstrap.
 
+<img src="https://lh3.googleusercontent.com/iOPIWnW2ZdTgTgRXeY1-RDPvKacDIKPRAsU7sMEyF914wzALVKYBV8T04uhZ-6a5L9OPRtPSlnwoEmNTo2z2f5EYdfpoNldVwU1BJtE9wX9SOFwN8s2Ss8UUKZLy0nhfBQkXlWkUrFdOs0w-E89CSmQPBEkrYnH3iZisf0CBcIB7zQZkBqLGErFmLJ5R95OSlHkORP7HQCFJ2Q_eD64LqVScCMyZPtav8l-IWm49lWvE_StLKGKSzUtHbLR_9JkDkd8fO2ahNfscWus0zvyNc5EZNeGvyUHiBMY-VkJyOvNSJlfM-7EOVwpeQcmhbu1Jxrw_DC63GLBqlMbL9y2Ow3WcpUupU9rOi03ntjEzrggyJ_CPG3jfHNcNrMsDVv9XGU3aKtZ2ltdiO6LjRETfKs_2MSk0A8TT61JkJx1kAOuPdaHq9DqS2WfZR7kbwYRJcDNueRcOU1asBvb3fELO4MlgzTPyw9wMIu5v8lY6Puwz2PWSyGNMgVJfqPnNlXN1yMyJQosVQA33rA2rLm5pqWYWvwRxZGGAoKALKofOVx5q5bLqHdcf7SAzK4URMhAMAgWWr-cX7HHzqdOkzJHqZxmH4hQ-lPUvfgRkYKPm0qaOVEwtYYrfmGcM-pfM8ODsXdOULzb1WSYR2cGxubV1bnmCj1DlDMyIDUQl71tCdXQhTggLGrC_XggHdD4ZwxsHWtbEIZts1gmBzI6HfKMPpmWRreT2gcDhtM3ETp1ht2undbjP5CMRW48MVSpgnLQU5kUWg7jmFr5ojUPAQc2lXxGxmiEUAlAb0CthDdJOhsKx70CQMRvqii3U2SMhCas73Em-NBL3BS682hABm4BOVSwoBGtWewngXLCfOQ_UiX933X8v13Qf8CSWEZGbAlvdh3CK941Y0_v8Y4TNshNb-m2CdZLddM6DrETtjBThX6SpHgy6O3HjpHH49aQYJK5yl8OvWmooflY-lElwGcVQEw=w1365-h635-s-no?authuser=0" width="100%"/>
+
 You can view the live website [here](https://local-library.mido-kun.repl.co).
 
 **Note**: If you need a diagram you can find it [here](https://local-library-express.onrender.com/architecture). **Zoom out** to see the whole diagram.
